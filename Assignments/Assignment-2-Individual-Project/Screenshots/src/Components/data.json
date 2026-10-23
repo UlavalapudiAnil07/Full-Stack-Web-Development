@@ -1,0 +1,105 @@
+
+{
+  "students": [
+    {
+      "studentId": "STU001",
+      "name": "Anil Kumar",
+      "email": "anil@example.com",
+      "department": "CSE",
+      "year": "3rd Year",
+      "status": "Active",
+      "phone": "9876543210",
+      "joined": "2024-06-10"
+    },
+    {
+      "studentId": "STU002",
+      "name": "Priya Sharma",
+      "email": "priya@example.com",
+      "department": "CSM",
+      "year": "2nd Year",
+      "status": "Active",
+      "phone": "9876543211",
+      "joined": "2025-06-12"
+    },
+    {
+      "studentId": "STU003",
+      "name": "Rahul Verma",
+      "email": "rahul@example.com",
+      "department": "ECE",
+      "year": "4th Year",
+      "status": "Graduated",
+      "phone": "9876543212",
+      "joined": "2022-06-15"
+    },
+    {
+      "studentId": "STU004",
+      "name": "Sneha Reddy",
+      "email": "sneha@example.com",
+      "department": "IT",
+      "year": "1st Year",
+      "status": "Active",
+      "phone": "9876543213",
+      "joined": "2026-06-10"
+    },
+    {
+      "studentId": "STU005",
+      "name": "Kiran Kumar",
+      "email": "kiran@example.com",
+      "department": "EEE",
+      "year": "3rd Year",
+      "status": "Inactive",
+      "phone": "9876543214",
+      "joined": "2024-06-14"
+    },
+    {
+      "studentId": "STU006",
+      "name": "Divya Rao",
+      "email": "divya@example.com",
+      "department": "CSE",
+      "year": "2nd Year",
+      "status": "Active",
+      "phone": "9876543215",
+      "joined": "2025-06-18"
+    },
+    {
+      "studentId": "STU007",
+      "name": "Arjun Patel",
+      "email": "arjun@example.com",
+      "department": "Mechanical",
+      "year": "4th Year",
+      "status": "Graduated",
+      "phone": "9876543216",
+      "joined": "2022-06-20"
+    },
+    {
+      "studentId": "STU008",
+      "name": "Meena Das",
+      "email": "meena@example.com",
+      "department": "Civil",
+      "year": "1st Year",
+      "status": "Active",
+      "phone": "9876543217",
+      "joined": "2026-06-22"
+    },
+    {
+      "studentId": "STU009",
+      "name": "Vikram Singh",
+      "email": "vikram@example.com",
+      "department": "CSM",
+      "year": "3rd Year",
+      "status": "Inactive",
+      "phone": "9876543218",
+      "joined": "2024-06-25"
+    },
+    {
+      "studentId": "STU010",
+      "name": "Pooja Nair",
+      "email": "pooja@example.com",
+      "department": "ECE",
+      "year": "2nd Year",
+      "status": "Active",
+      "phone": "9876543219",
+      "joined": "2025-06-28"
+    }
+  ]
+}
